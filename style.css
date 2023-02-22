@@ -13,3 +13,8 @@ p{
 h2+p{
     font-weight: bold;
 }
+
+img{
+    width: 100px;
+    height: 100px;
+}
